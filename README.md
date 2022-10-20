@@ -40,6 +40,7 @@ I have check some contents about the GitHub Actions around IT community and some
 
 - [Github Actions: uma introdução](https://www.zup.com.br/blog/github-actions-ci-cd)
 - [10 boas práticas e dicas para usar o GitHub Actions](https://www.zup.com.br/blog/github-actions-dicas-boas-praticas)
+- [Useful Actions](https://github.com/GuillaumeFalourd/useful-actions)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
