@@ -1,6 +1,6 @@
-# Foobar
+# Awesomw GitHub Actions
 
-Foobar is a Python library for dealing with word pluralization.
+I have create this repository to keep all the actions developed by me in one place, that's here. Feel free to colaborating with me on this according to the #contribute session.
 
 ## Installation
 
