@@ -35,6 +35,12 @@ jobs:
       - run: bats -v
 ```
 
+## Community Articles
+I have check some contents about the GitHub Actions around IT community and some of them interesting me.
+
+- [Github Actions: uma introdução](https://www.zup.com.br/blog/github-actions-ci-cd)
+- [10 boas práticas e dicas para usar o GitHub Actions](https://www.zup.com.br/blog/github-actions-dicas-boas-praticas)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
