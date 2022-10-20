@@ -3,7 +3,7 @@
 I have create this repository to keep all the actions developed by me in one place, that's here. Feel free to colaborating with me on this according to the #contribute session. Is a way to leverage the professionals and me to stay always up-to-date and in match with the newest solutions around GitHub Actions.
 
 ## What's GitHub Actions?
-GitHub Actions is a continuous integration and continuous delivery (CI/CD) platform that lets you automate your build, test, and deployment pipeline. GitHub Actions goes beyond just DevOps and lets you run workflows when other events happen in your repository. For example, you can run a workflow to automatically add the appropriate labels whenever someone creates a new issue in your repository.
+[GitHub Actions](https://docs.github.com/pt) is a continuous integration and continuous delivery (CI/CD) platform that lets you automate your build, test, and deployment pipeline. GitHub Actions goes beyond just DevOps and lets you run workflows when other events happen in your repository. For example, you can run a workflow to automatically add the appropriate labels whenever someone creates a new issue in your repository.
 
 ## Main Components
 - **workflows:** an configurable automated process that runs one or more jobs.
@@ -33,27 +33,6 @@ jobs:
           node-version: '14'
       - run: npm install -g bats
       - run: bats -v
-```
-
-
-
-
-
-
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
 ```
 
 ## Contributing
