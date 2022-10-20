@@ -1,6 +1,6 @@
-# Awesomw GitHub Actions
+# Awesome GitHub Actions
 
-I have create this repository to keep all the actions developed by me in one place, that's here. Feel free to colaborating with me on this according to the #contribute session.
+I have create this repository to keep all the actions developed by me in one place, that's here. Feel free to colaborating with me on this according to the #contribute session. Is a way to leverage the professionals and me to stay always up-to-date and in match with the newest solutions around GitHub Actions.
 
 ## Installation
 
