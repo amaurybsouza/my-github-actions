@@ -12,7 +12,7 @@ GitHub Actions is a continuous integration and continuous delivery (CI/CD) platf
 - **actions:** an action is a custom application for the GitHub Actions platform that performs a complex but frequently repeated task. 
 - **runners:** an executor is a server that runs your workflows when they are triggered.
 
-Basic Example
+## Basic Example
 GitHub Actions uses YAML syntax to define the workflow. Each workflow is stored as a separate YAML file in your code repository, in a directory named `.github/workflows`. You can create an example workflow in your repository that automatically triggers a series of commands whenever code is pushed
 
 1- In your repository, create the `.github/workflows/` directory to store your workflow files.
