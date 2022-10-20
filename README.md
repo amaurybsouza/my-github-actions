@@ -2,13 +2,15 @@
 
 I have create this repository to keep all the actions developed by me in one place, that's here. Feel free to colaborating with me on this according to the #contribute session. Is a way to leverage the professionals and me to stay always up-to-date and in match with the newest solutions around GitHub Actions.
 
-## Installation
+## What's GitHub Actions?
+GitHub Actions is a continuous integration and continuous delivery (CI/CD) platform that lets you automate your build, test, and deployment pipeline.
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
+## Main Components
+- workflows:
+- events:
+- jobs:
+- actions:
+- runners:
 
 ## Usage
 
