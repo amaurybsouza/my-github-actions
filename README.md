@@ -39,6 +39,7 @@ jobs:
 In this example, you will create a secret named AZURE_CREDENTIALS that you can use to authenticate with Azure.
 
 1- Use the Azure CLI locally to run some commands.
+
 2- Create a new service principal in the Azure portal for your app. The service principal must be assigned the Contributor role.
 
 ```bash
