@@ -1,3 +1,4 @@
+#This CI/CD pipeline was applied from kubedev channel.
 name: CI-CD
 
 on: 
